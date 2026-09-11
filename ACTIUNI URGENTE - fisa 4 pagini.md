@@ -14,7 +14,7 @@
    - informare preventivă (art. 627 C.pr.civ.): limitele titlului (fâșia hotar–60 cm), caracterul PORTANT al zidului (coama +5,20 reazemă pe el — planșele A_16/A_26), necesitatea proiectului tehnic și a sprijinirilor (precedent: expertiza Simionescu 4461/2025), necesitatea materializării topografice a liniei înainte de orice măsurătoare, regimul sitului istoric (adresele DJC), disponibilitatea executării voluntare legale + calendar;
    - la consultare se verifică: există vreo solicitare SCRISĂ a executorului către creditor rămasă fără urmare 6 luni? *(condiția perimării, art. 697 C.pr.civ. — nu se invocă nimic înainte de această verificare)*; simetric pentru 937/EP + un act de stăruință în executarea obligației lui Duțu (acoperișul — neexecutat cf. PV 06.11.2024).
 
-**3. DECLARAȚIE NOTARIALĂ RECTIFICATIVĂ** la declarația nr. 3461/03.07.2026 („nu face obiectul niciunui litigiu") — la același notar, cu istoricul complet (SC 750, DC 47, dosarul 1450 survenit la 17.07.2026). *(Dezamorsează un atac advers pe art. 326 C.pen. înainte de a fi lansat.)*
+**3. DECLARAȚIA NR. 3461/03.07.2026 — RECALIBRAT (12.09.2026):** rectificarea imediată NU mai este necesară ca „damage control". La 03.07.2026 nu exista niciun proces PE ROL privind C2 (1450 a fost înregistrat abia la 17.07.2026), iar declarația însăși divulgă expres istoricul judiciar (SC 750/DC 175) — deci lipsește orice intenție de inducere în eroare (art. 326 C.pen. practic inaplicabil). Ce rămâne de făcut: (a) avocatul pregătește nota explicativă de 1 paragraf pentru cazul în care Duțu citează fraza trunchiat în 1450; (b) LA RELUAREA procedurii certificatului se va da o declarație NOUĂ, actualizată, care menționează dosarul 1450 și executarea; (c) rectificare acum — doar opțional, la aprecierea avocatului.
 
 **4. CERERE DE PUNCT DE VEDERE SCRIS — Primărie + Direcția Județeană pentru Cultură:** regimul de autorizare al coborârii zidului vechi la 2 m pe segmentul de 6,89 m, ca executare voluntară parțială a demolării dispuse de instanță (art. 63 alin. 2 Ordin 839/2009). *(Regula de fier: NICIO lucrare fizică înainte de răspuns scris + expertiză tehnică. Construirea fără autorizație în situl istoric = infracțiune, art. 24 lit. a din Legea 50/1991.)*
 
@@ -28,7 +28,7 @@
 
 **7. COPIA CERTIFICATĂ A OPISULUI + DOCUMENTAȚIEI AC 14 de la Primărie** — proba că adresa DJC nr. 2686/26.08.2025 se afla în dosarul administrativ la emitere. *(Acoperă motivul LATENT „lipsa avizului DJC" — nu îl deschidem noi, dar trebuie să fim gata.)*
 
-**8. INVITAȚIA LA MEDIERE — CORECTATĂ ȘI TRANSMISĂ cu confirmare de primire.** Trei corecturi obligatorii înainte de transmitere: (a) zona extinsă = segmentul **F–916** (2,08 m) — NU „916–E"; (b) neexecutarea lui Duțu se afirmă NUMAI pentru acoperiș (fereastra a fost modificată — PV 937/EP); (c) se elimină „linia noastră de hotar…a căpătat lucru judecat" → „reperul reținut de instanțe". Se adaugă: condiționarea oricărei lucrări de actele administrative + mențiunea informativă a art. 662 C.civ. (contribuția vecinului la despărțitura comună) + anexă tehnică (schiță + fotografii datate).
+**8. INVITAȚIA LA MEDIERE — REALIZAT (expediată 03.09.2026, recomandată cu confirmare de primire), cu corecturile esențiale încorporate** (acoperiș-only; „reperul reținut de instanțe"; zona „916–F"; condiționarea de act autentic + acte administrative; art. 662). Rămâne: monitorizarea răspunsului lui Duțu; depunerea invitației + dovezii poștale la dosarul 1450 odată cu întâmpinarea; NU se construiește argumentație pe eventualul refuz.
 
 ---
 
@@ -57,4 +57,4 @@ Portalul instanței (1450 + 1663: întâmpinări noi, măsuri); BEJ (orice act d
 ## CELE TREI RISCURI MAJORE (de ținut în față)
 1. **Efectul DC 47 în 1450**, amplificat de adresa 169765 (emitentul șovăie) → parare: divizibilitate + separarea planurilor + petit subsidiar.
 2. **Executare silită fără proiect asupra zidului portant** → parare: adresa preventivă (pct. 2) + contestație/suspendare în 15 zile.
-3. **Auto-vătămarea** (lucrări neautorizate; declarația 3461 nerectificată; incoerențe) → parare: interdicțiile de mai sus + pct. 3, 8.
+3. **Auto-vătămarea** (lucrări neautorizate; incoerențe între documente) → parare: interdicțiile de mai sus; riscul declarației 3461 — recalibrat la pct. 3 (retoric, nu penal).

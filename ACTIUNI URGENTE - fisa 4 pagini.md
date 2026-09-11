@@ -1,5 +1,5 @@
 # ACȚIUNI URGENTE — FIȘĂ OPERAȚIONALĂ (max. 4 pagini)
-## Dosarele Rădoi–Duțu · întocmită 11.09.2026 · termen-cheie: **18.11.2026, ora 11:00** (dosarele 1450/113/2026 și 1663/113/2026, Tribunalul Brăila)
+## Dosarele Rădoi–Duțu · întocmită 11.09.2026, actualizată 12.09.2026 · termen-cheie: **18.11.2026, ora 11:00** (dosarele 1450/113/2026 și 1663/113/2026, Tribunalul Brăila)
 *Fișa însoțește „ANALIZA JURIDICĂ V4 – DOCUMENT MASTER". Orice acțiune se execută cu/prin avocat.*
 
 ---
@@ -52,7 +52,7 @@
 - nicio afirmație publică sau înscris care contrazice pozițiile din dosare (v. corecturile invitației la mediere).
 
 ## CE SE MONITORIZEAZĂ SĂPTĂMÂNAL
-Portalul instanței (1450 + 1663: întâmpinări noi, măsuri); BEJ (orice act de executare → avocat în aceeași zi — termen 15 zile); răspunsurile Primăriei/DJC la cererile depuse.
+Portalul instanței (1450 + 1663: întâmpinări noi, măsuri); BEJ (orice act de executare → avocat în aceeași zi — termen 15 zile); răspunsurile Primăriei/DJC la cererile depuse; poșta — recuperarea AR-ului (confirmarea de primire) a invitației din 03.09.2026 și eventualul răspuns al lui Duțu.
 
 ## CELE TREI RISCURI MAJORE (de ținut în față)
 1. **Efectul DC 47 în 1450**, amplificat de adresa 169765 (emitentul șovăie) → parare: divizibilitate + separarea planurilor + petit subsidiar.

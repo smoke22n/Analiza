@@ -1,4 +1,4 @@
-# REGISTRU — PROBE ȘI DOCUMENTE DE OBȚINUT (11.09.2026)
+# REGISTRU — PROBE ȘI DOCUMENTE DE OBȚINUT (actualizat 12.09.2026)
 *Anexă operațională la „ANALIZA JURIDICĂ V4" (§29). Ordinea = prioritatea.*
 
 | # | Document/probă | De unde | Cine | Scop | Prioritate |
@@ -14,4 +14,6 @@
 | 9 | PV recepție nr. 23/25.06.2026 — original (perioada de garanție: 24 vs. 34 luni, scan ambiguu) | arhiva proprie / Primărie | familia | acuratețe | MEDIE |
 | 10 | Certificatul de impunere cerut de CU pct. 5 d.3 | dosarul Primăriei | avocat | completitudinea probei de procedură | MEDIE |
 | 11 | Încheierea de ședință din 24.09.2025, dosar 309/113/2025 (compunerea completului la acel termen) | arhiva Tribunalului | avocat | doar acuratețe istorică (hotărârea finală = Boldeanu+Deniz, verificată) | REDUSĂ |
-| 12 | Dovezile de comunicare a notificărilor de conciliere (veche + corectată) | poștă/arhiva proprie | familia | proba bunei-credințe în 1450 | MEDIE |
+| 12 | ~~Dovezile de comunicare a notificărilor de conciliere~~ — **PARȚIAL REZOLVAT (12.09.2026):** invitația a fost expediată la 03.09.2026, recomandată cu confirmare de primire; factura poștală și bonul sunt în PDF. **Rămâne de recuperat: confirmarea de primire (AR-ul semnat de destinatar, la întoarcerea de la poștă)** + dovada notificării anterioare, dacă a fost transmisă | poștă (AR retur) / arhiva proprie | familia | proba completă a bunei-credințe în 1450 | MEDIE→RIDICATĂ (AR-ul semnat e piesa care lipsește) |
+| 13 | Răspunsul lui Duțu la invitația de conciliere (dacă vine) — se păstrează plicul și data | corespondență | familia | probă în ambele sensuri; se predă avocatului nedeschis discuției publice | MEDIE |
+| 14 | Declarație notarială NOUĂ, actualizată (menționând dosarul 1450 și stadiul executării) — **de dat numai LA RELUAREA procedurii certificatului de edificare**, nu acum (v. V4 §30 — recalibrarea declarației 3461: rectificarea imediată e opțională) | notariat | familia + avocat | corectitudinea viitoarei proceduri de certificat | LA MOMENTUL RELUĂRII |
